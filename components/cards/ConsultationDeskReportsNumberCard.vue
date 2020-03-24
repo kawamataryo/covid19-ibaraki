@@ -6,7 +6,7 @@
       :chart-id="'time-bar-chart-querents'"
       :chart-data="querentsGraph"
       :date="Data.querents.date"
-      :unit="$t('件.reports')"
+      :unit="$t('件')"
       :url="'https://catalog.data.metro.tokyo.lg.jp/dataset/t000010d0000000070'"
     />
     <!-- 件.reports = 窓口相談件数 -->
